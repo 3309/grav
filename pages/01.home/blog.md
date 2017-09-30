@@ -14,6 +14,3 @@ access:
     admin.login: true
 ---
 
-# BLOG
-
----
