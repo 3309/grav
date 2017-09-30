@@ -3,6 +3,8 @@ title: About
 hide_git_sync_repo_link: false
 ---
 
-# About ME
+# Great site of MD blogs
 
-- great person
+Login to get all the site content
+Register button at the bottom for new audience
+
