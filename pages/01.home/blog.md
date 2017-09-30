@@ -1,9 +1,9 @@
-
 ---
-access:
-  site.login: true
-  admin.login: true
 title: Home
+hide_git_sync_repo_link: false
+access:
+    site.login: true
+    admin.login: true
 ---
 
 # Grav is Running!
