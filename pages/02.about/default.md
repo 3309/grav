@@ -10,3 +10,4 @@ hide_git_sync_repo_link: false
 Login to get all the site content
 Register button at the bottom for new audience
 
+*Italic*
