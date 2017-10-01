@@ -9,7 +9,6 @@ content:
         dir: desc
     pagination: true
     url_taxonomy_filters: true
-    site.login: true
 access:
     site.login: true
     admin.login: true
